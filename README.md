@@ -1,4 +1,4 @@
-# Personal-Key-Indicators-of-Heart-Disease-A-Machine-Learning-Project
+# Capstone project | DSFA Jordan | correltion one Personal-Key-Indicators-of-Heart-Disease-A-Machine-Learning-
 
 Introduction
 Heart disease is one of the leading causes of death in the contemporary world, and predicting heart disease risk factors is crucial for prevention and intervention. The goal of my project was to explore the relationship between different features and the target variable of heart disease and to build a machine learning model that can accurately classify the cases of heart disease. The dataset I used is called "Key Indicators of Heart Disease" from Kaggle,  which contains 300,000+ instances and 18 attributes, of which one is the class attribute (heart disease) and the rest are predictive attributes.
