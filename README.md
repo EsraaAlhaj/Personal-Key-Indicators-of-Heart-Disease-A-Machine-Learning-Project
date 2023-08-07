@@ -9,7 +9,7 @@ I followed several steps and methods to preprocess, analyze, and model the data.
 
 Result
 
-My project showed that IBM was the most significant factor that affects heart disease risk factors, followed by age, gender,and  general health,  My model achieved an accuracy of 0.99 on the test data and performed well on all other metrics. 
+My project showed that IBM was the most significant factor that affects heart disease risk factors, followed by age, gender,and  general health,  My model achieved an accuracy of 0.82 on the test data and performed well on all other metrics. 
 
 Discussion
 
